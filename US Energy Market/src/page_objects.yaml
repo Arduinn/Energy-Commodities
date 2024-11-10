@@ -1,0 +1,10 @@
+crudeOilPage:
+  # Table
+  table_title: "Petroleum & Other Liquids"
+  table_source: "EIA"
+  table_src: "../report/tables/oilTable_summary.csv"
+
+  # First Chart
+  firstChart_title: "Seasonal Crude Oil Stocks (Including SPR)"
+  firstChart_source: "EIA"
+  firstChart_src: "../report/figures/Crude_Oil_(Including_SPR).png"
