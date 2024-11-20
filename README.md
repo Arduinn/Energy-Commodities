@@ -1,6 +1,11 @@
-# energy_commodities
-<<<<<<< HEAD
+# Energy-Commodities
 
-=======
->>>>>>> 5f9b2ef20d7f88b5f62d1ee5e6ced89c905a0004
-This repository is the result of my personal studies on energy commodities. The aim is to compile various analyses using public data to deeply explore trends and understand market sentiment regarding oil, refined products, and other energy commodities.
+This repository is dedicated to analyzing and understanding the fundamental factors that drive energy commodity markets, with a primary focus on oil, natural gas, and other critical energy sources. Through the use of advanced statistical tools and comprehensive datasets, this project aims to provide meaningful insights into market dynamics, pricing mechanisms, and supply-demand trends influencing the energy sector.
+
+## US Petroleum Stocks
+
+This folder focuses on analyzing U.S. petroleum stock levels, including crude oil and its derivatives,
+
+**Data Source:**  
+The original data can be accessed through the EIA's website at:  
+[U.S. Weekly Petroleum Stocks](https://www.eia.gov/dnav/pet/pet_stoc_wstk_dcu_nus_w.htm)
