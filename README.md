@@ -9,3 +9,10 @@ This folder focuses on analyzing U.S. petroleum stock levels, including crude oi
 **Data Source:**  
 The original data can be accessed through the EIA's website at:  
 [U.S. Weekly Petroleum Stocks](https://www.eia.gov/dnav/pet/pet_stoc_wstk_dcu_nus_w.htm)
+
+## US Fuels Demand
+
+This folder focuses on analyzing U.S. petroleum dmeand for oil and fuels
+
+**Data Source:**
+[U.S. Weekly Supplied Products](https://www.eia.gov/dnav/pet/pet_cons_wpsup_k_w.htm)
