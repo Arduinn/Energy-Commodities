@@ -28,3 +28,19 @@ This folder is dedicated to analyzing U.S. propane stock levels, a critical comp
 **Data Source:**  
 The original data can be accessed through the EIA's website at:  
 [U.S. Weekly Propane Stocks](https://www.eia.gov/petroleum/weekly/propane.php)
+
+## US Propane Stocks
+
+This folder is dedicated to analyzing U.S. propane stock levels, a critical component of the energy market, particularly for residential, commercial, and industrial uses.
+
+**Data Source:**  
+The original data can be accessed through the EIA's website at:  
+[U.S. Weekly Propane Stocks](https://www.eia.gov/petroleum/weekly/propane.php)
+
+## JODI Energy Databases
+
+This folder is dedicated to studying and analyzing oil and its derivatives across multiple countries, leveraging the Joint Organizations Data Initiative (JODI) database. The analysis focuses on trends and insights in production, consumption, and stock levels, which are critical for understanding global energy markets.
+
+**Data Source:**  
+The original data can be accessed through the EIA's website at:  
+[JODI Oil World Database](https://www.jodidata.org/gas/database/data-downloads.aspx)
