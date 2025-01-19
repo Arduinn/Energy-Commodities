@@ -29,13 +29,17 @@ This folder is dedicated to analyzing U.S. propane stock levels, a critical comp
 The original data can be accessed through the EIA's website at:  
 [U.S. Weekly Propane Stocks](https://www.eia.gov/petroleum/weekly/propane.php)
 
-## US Propane Stocks
+---
 
-This folder is dedicated to analyzing U.S. propane stock levels, a critical component of the energy market, particularly for residential, commercial, and industrial uses.
+## EIA Energy Outlook
 
-**Data Source:**  
-The original data can be accessed through the EIA's website at:  
-[U.S. Weekly Propane Stocks](https://www.eia.gov/petroleum/weekly/propane.php)
+This folder is dedicated to analyzing U.S. oil production and consumption trends, which are essential for understanding the dynamics of the global energy market. These metrics provide critical insights into supply and demand balances, price fluctuations, and market stability.
+
+**Data Source**
+The data is sourced from the U.S. Energy Information Administration (EIA) and can be accessed through the following link:  
+[Short-Term Energy Outlook (STEO) - EIA](https://www.eia.gov/outlooks/steo/data.php)
+
+---
 
 ## JODI Energy Databases
 
