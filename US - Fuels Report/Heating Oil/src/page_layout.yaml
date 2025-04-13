@@ -1,0 +1,46 @@
+report_settings:
+  header_img_path: "./assets/header.png"
+  title: "Distillates"
+  source: "This report is based on information obtained from the U.S. Energy Information Administration (EIA). Readers should verify critical details independently and consider consulting the original EIA sources for further information."
+
+  page1:
+    chart1_path: "../report/img/USDistillatesStocks.png"
+    chart1_image_width: 200
+    chart1_ypos: 45
+    chart1_leftmargin: 5
+
+    chart2_path: "../report/img/EastCoast(PADD1).png"
+    chart2_image_width: 100
+    chart2_ypos: 110
+    chart2_leftmargin: 5
+
+    chart3_path: "../report/img/Midwest(PADD2).png"
+    chart3_image_width: 100
+    chart3_ypos: 110
+    chart3_leftmargin: 105
+
+    chart4_path: "../report/img/GulfCoast(PADD3).png"
+    chart4_image_width: 100
+    chart4_ypos: 170
+    chart4_leftmargin: 5
+
+    chart5_path: "../report/img/OtherRegions(PADD4&5).png"
+    chart5_image_width: 100
+    chart5_ypos: 170
+    chart5_leftmargin: 105
+
+  page2:
+    chart1_path: "../report/img/PolyRegressionforDistillatesDemand.png"
+    chart1_image_width: 200
+    chart1_ypos: 45
+    chart1_leftmargin: 5
+
+    chart2_path: "../report/img/ZScoreforDistillatesDemand.png"
+    chart2_image_width: 200
+    chart2_ypos: 117
+    chart2_leftmargin: 5
+
+    chart3_path: "../report/img/ImpliedDistillatesDemand(4WeekAvg.).png"
+    chart3_image_width: 200
+    chart3_ypos: 187
+    chart3_leftmargin: 5

@@ -17,7 +17,7 @@ The original data can be accessed through the EIA's website at:
 This folder focuses on analyzing U.S. petroleum demand for oil and fuels.
 
 **Data Source:**  
-[U.S. Weekly Supplied Products](https://www.eia.gov/dnav/pet/pet_cons_wpsup_k_w.htm)
+[U.S. Weekly Supplied Products](https://www.eia.gov/petroleum/weekly/gasoline.php)
 
 ---
 
